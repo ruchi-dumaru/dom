@@ -29,23 +29,23 @@
  - Forms are for communication - sanitize and validate deeply
 
 # Practice:
- - Email/password validator
- - interactive feedback form with error highlights
+  - Email/password validator
+  - interactive feedback form with error highlights
 
 # Timers and Intervals
- - Teach
-   - setTimeout,clearTimeout
-   - setInterval,clearInterval
-   - Real use:delaying UI actions,auto-referesh
+  - Teach
+    - setTimeout,clearTimeout
+    - setInterval,clearInterval
+    - Real use:delaying UI actions,auto-referesh
 
- - conecpt
-   - setInterval vs setTimeout recursion
+  - conecpt
+    - setInterval vs setTimeout recursion
 
- - Note
-  - Time create rythm in user experience
+  - Note
+    - Time create rythm in user experience
 
- - Practice
-  - Countdown timer
-  - Auto-hise alert banner after 3s
+  - Practice
+    - Countdown timer
+    - Auto-hise alert banner after 3s
 
  
